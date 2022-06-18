@@ -1,0 +1,478 @@
+{
+  "main_page_one": [
+    {
+      "id_": 1,
+      "name": "HUDA BEAUTY",
+      "description": "Easy Bake Loose Setting Powder Mini_Pound Cake",
+      "cost": 1650,
+      "image": "https://cdn16.nnnow.com/web-images/medium/styles/7C1N04O5PPK/1655201666947/1.jpg",
+      "size": "One Size",
+      "color": "No Color"
+    },
+    {
+      "id_": 2,
+      "name": "MOROCCANOIL",
+      "description": "All In One Leave In Conditioner",
+      "cost": 1125,
+      "image": "https://cdn18.nnnow.com/web-images/medium/styles/E4PUAGOMU8E/1653375921600/1.jpg",
+      "size": "50 ML",
+      "color": "No Color"
+    },
+    {
+      "id_": 3,
+      "name": "OUAI",
+      "description": "Detox Shampoo",
+      "cost": 3200,
+      "image": "https://cdn11.nnnow.com/web-images/medium/styles/KR54NI5C40N/1652252614163/1.jpg",
+      "size": "300 ML",
+      "color": "No Color"
+    }
+  ],
+  "main_page_two": [
+    {
+      "id_": 1,
+      "name": "SEPHORA COLLECTION",
+      "description": "Lip Linear To Go - 16 Nude Beige",
+      "cost": 280,
+      "image": "https://cdn06.nnnow.com/web-images/medium/styles/F4UKRJJ6IOV/1495515337362/1.jpg",
+      "size": "0.71 gm",
+      "color": "7 more colors",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETAANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id_": 2,
+      "name": "SHISEIDO",
+      "description": "Shree Eye Zone Corrector - Beigh 105",
+      "cost": 1800,
+      "image": "https://cdn06.nnnow.com/web-images/medium/styles/1GWV3ZWYEYX/1496395457575/1.jpg",
+      "size": "3.8 ML",
+      "color": "2 more colors",
+      "offer1": "BUY FOR 8000 AND GET 10% OFF",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id_": 3,
+      "name": "SEPHORA COLLECTION",
+      "description": "Glow Perfection Foundation - Intense Camel",
+      "cost": 1352,
+      "image": "https://cdn11.nnnow.com/web-images/medium/styles/KUN3RAI983U/1566801848576/1.jpg",
+      "size": "20 ML",
+      "color": "7 more colors",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETAANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id_": 4,
+      "name": "SEPHORA COLLECTION",
+      "description": "Glow Perfection Foundation - 25 Beige",
+      "cost": 1352,
+      "image": "https://cdn16.nnnow.com/web-images/medium/styles/CH65NKWC2ZU/1533201155002/1.jpg",
+      "size": "20 ML",
+      "color": "8 more color",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETAANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id_": 5,
+      "name": "SEPHORA COLLECTION",
+      "description": "Black Ink - Fine Line Felt Linear",
+      "cost": 960,
+      "image": "https://cdn18.nnnow.com/web-images/medium/styles/XMZSHEDDV9H/1555306158234/1.jpg",
+      "size": "0.5 ML",
+      "color": "No color",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETAANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id_": 6,
+      "name": "SEPHORA COLLECTION",
+      "description": "Black Ink - Classic Line Felt Linear",
+      "cost": 960,
+      "image": "https://cdn18.nnnow.com/web-images/medium/styles/XMZSHEDDV9H/1555306158234/1.jpg",
+      "size": "1.2 ML",
+      "color": "No color",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETAANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "SEPHORA COLLECTION",
+      "description": "8 Hour Mattifying Presses Powder - 20 Cream",
+      "cost": 1000,
+      "image": "https://cdn05.nnnow.com/web-images/medium/styles/KPQB0YKDLLO/1495515907769/1.jpg",
+      "size": "10 gm",
+      "color": "20 Cream",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETAANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 2,
+      "name": "SEPHORA COLLECTION",
+      "description": "Mineral Foundation Compact - D35",
+      "cost": 1200,
+      "image": "https://cdn07.nnnow.com/web-images/medium/styles/J16NPX56AAC/1496667063590/1.jpg",
+      "size": "10 gm",
+      "color": "7 Cream",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETAANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 3,
+      "name": "BENEFIT COSMETICS",
+      "description": "The Proffesional Pearl Primer Illumating Face Primer",
+      "cost": 1980,
+      "image": "https://cdn13.nnnow.com/web-images/medium/styles/FXT59MNF6NW/1605088758122/1.jpg",
+      "size": "22 ML",
+      "color": "No Colour",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 4,
+      "name": "BENEFIT COSMETICS",
+      "description": "Dandelion Twinkle Powder Highlighter Mini - Nude Pink",
+      "cost": 978,
+      "image": "https://cdn07.nnnow.com/web-images/medium/styles/2GNXC3A5NLK/1588145568024/1.jpg",
+      "size": "1.5 gm",
+      "color": "No Colour",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 5,
+      "name": "SEPHORA COLLECTION",
+      "description": "Smoothing And Brightening Powder",
+      "cost": 740,
+      "image": "https://cdn01.nnnow.com/web-images/medium/styles/XU1BPDLED6C/1593767829705/1.jpg",
+      "size": "8 gm",
+      "color": "No Colour",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE "
+    },
+    {
+      "id": 6,
+      "name": "HUDA BEAUTY",
+      "description": "Easy Bake Loose Setting Powder Mini - Banana Bread",
+      "cost": 1650,
+      "image": "https://cdn16.nnnow.com/web-images/medium/styles/7C1N04O5PPK/1655201666947/1.jpg",
+      "size": "One Size",
+      "color": "Banana Bread",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 7,
+      "name": "HUDA BEAUTY",
+      "description": "#Faux Filter Luminous Matte Full Coverage Liquid Foundation - 320G Tres Leches",
+      "cost": 3300,
+      "image": "https://cdn00.nnnow.com/web-images/medium/styles/43XZWEELVOJ/1631790324267/1.jpg",
+      "size": "35 ML",
+      "color": "320G Tres Leches",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 8,
+      "name": "SEPHORA COLLECTION",
+      "description": "Glow Perfection Foundation - Intense Camel",
+      "cost": 1352,
+      "image": "https://cdn11.nnnow.com/web-images/medium/styles/KUN3RAI983U/1566801848576/1.jpg",
+      "size": "20 ML",
+      "color": "9 colours",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE "
+    },
+    {
+      "id": 9,
+      "name": "HUDA BEAUTY",
+      "description": "#Faux Filter Luminous Matte Full Coverage Liquid Foundation - 310G Amaretti",
+      "cost": 2805,
+      "image": "https://cdn19.nnnow.com/web-images/medium/styles/NAW2GIWYCP5/1631790634315/1.jpg",
+      "size": "35 ML",
+      "color": "310G Amaretti",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 10,
+      "name": "HUDA BEAUTY",
+      "description": "#Faux Filter Luminous Matte Full Coverage Liquid Foundation - 130G Panna Cotta",
+      "cost": 2805,
+      "image": "https://cdn11.nnnow.com/web-images/large/styles/K4VXNFKZP73/1631790634265/1.jpg",
+      "size": "35 ML",
+      "color": "130G Panna Cotta",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 11,
+      "name": "STILA",
+      "description": "One Step Correct Brightening Finishing Powder - Light",
+      "cost": 2640,
+      "image": "https://cdn14.nnnow.com/web-images/medium/styles/KIUUMWAPEC5/1653470822859/1.jpg",
+      "size": "9.55 gm",
+      "color": "Light",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 12,
+      "name": "SEPHORA COLLECTION",
+      "description": "Glow Perfection Foundation - 25 Beige",
+      "cost": 1352,
+      "image": "https://cdn16.nnnow.com/web-images/medium/styles/CH65NKWC2ZU/1533201155002/1.jpg",
+      "size": "20 ML",
+      "color": "25 colours",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 13,
+      "name": "BENEFIT COSMETICS",
+      "description": "That Gal Brightening Face Primer",
+      "cost": 2100,
+      "image": "https://cdn05.nnnow.com/web-images/medium/styles/FL7VJ7JU8DD/1641795259131/1.jpg",
+      "size": "11 ML",
+      "color": "No Colour",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 14,
+      "name": "BENEFIT COSMETICS",
+      "description": "HUDA BEAUTY",
+      "cost": 2805,
+      "image": "https://cdn06.nnnow.com/web-images/medium/styles/VHI8O3X339G/1631791089772/1.jpg",
+      "size": "35 ML",
+      "color": "210B Chai",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 15,
+      "name": "SEPHORA COLLECTION",
+      "description": "Classic Blush Brush #04",
+      "cost": 960,
+      "image": "https://cdn15.nnnow.com/web-images/medium/styles/366XPCD0TVA/1560852958825/1.jpg",
+      "size": "One Size",
+      "color": "No Colour",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 16,
+      "name": "SEPHORA COLLECTION",
+      "description": "Glow Perfection Foundation - 33 Walnut",
+      "cost": 1352,
+      "image": "https://cdn09.nnnow.com/web-images/medium/styles/3T4E8DLOLWR/1533201154994/1.jpg",
+      "size": "20 ML",
+      "color": "9 Colour",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 17,
+      "name": "BENEFIT COSMETICS",
+      "description": "Hello Happy Flawless Brightening Foundation - Shade 04",
+      "cost": 1860,
+      "image": "https://cdn15.nnnow.com/web-images/medium/styles/OZKI0TC9NE4/1611817221832/1.jpg",
+      "size": "30 ML",
+      "color": "4 Colour",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 18,
+      "name": "HUDA BEAUTY",
+      "description": "#Faux Filter Luminous Matte Full Coverage Liquid Foundation - 140G Cashew",
+      "cost": 2805,
+      "image": "https://cdn04.nnnow.com/web-images/medium/styles/X2YX5NSYEJI/1631791079651/1.jpg",
+      "size": "35 ML",
+      "color": "140G Cashew",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 19,
+      "name": "SEPHORA COLLECTION",
+      "description": "Color Corrector - Green",
+      "cost": 950,
+      "image": "https://cdn06.nnnow.com/web-images/medium/styles/SZXTIG30UAW/1555306181828/1.jpg",
+      "size": "3.4 ML",
+      "color": "2 Colours",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE "
+    },
+    {
+      "id": 20,
+      "name": "STILA",
+      "description": "Heaven's Hue Highlighter - Kitten",
+      "cost": 2400,
+      "image": "https://cdn13.nnnow.com/web-images/medium/styles/HAPUTHOQ60N/1585660398378/1.jpg",
+      "size": "10 gm",
+      "color": "2 Colours",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 21,
+      "name": "STILA",
+      "description": "One Step Correct",
+      "cost": 2640,
+      "image": "https://cdn07.nnnow.com/web-images/medium/styles/ERGA41B2X2B/1486990662464/1.jpg",
+      "size": "30 ML",
+      "color": "No Colours",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 22,
+      "name": "SEPHORA COLLECTION",
+      "description": "Smoothing & Brightening Powder - 02 Medium",
+      "cost": 1050,
+      "image": "https://cdn13.nnnow.com/web-images/medium/styles/HGLSBYVM5G8/1585728189805/1.jpg",
+      "size": "One Size",
+      "color": "02 Medium",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 23,
+      "name": "SEPHORA COLLECTION",
+      "description": "Color Corrector - Peach",
+      "cost": 760,
+      "image": "https://cdn07.nnnow.com/web-images/medium/styles/UTF2LFWTJJ8/1555306181480/1.jpg",
+      "size": "3.4 ML",
+      "color": "Peach",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 24,
+      "name": "SEPHORA COLLECTION",
+      "description": "Matte Perfection Powder Foundation - 31 Almond",
+      "cost": 1500,
+      "image": "https://cdn12.nnnow.com/web-images/medium/styles/AY18RX6IFV1/1551249758307/1.jpg",
+      "size": "7.5 gm",
+      "color": "31 Almond",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 25,
+      "name": "SEPHORA COLLECTION",
+      "description": "Best Skin Ever High Coverage Concealer - T27",
+      "cost": 1200,
+      "image": "https://cdn06.nnnow.com/web-images/medium/styles/GSBIDNITIL8/1617724508507/1.jpg",
+      "size": "5 ML",
+      "color": "T27",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 26,
+      "name": "SEPHORA COLLECTION",
+      "description": "#Faux Filter Luminous Matte Full Coverage Liquid Foundation - 420G Toffee",
+      "cost": 2805,
+      "image": "https://cdn02.nnnow.com/web-images/medium/styles/E70KEUB8K0W/1631790604277/1.jpg",
+      "size": "35 ML",
+      "color": "420G Toffee",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 27,
+      "name": "ANASTASIA BEVERLY HILLS",
+      "description": "Luminous Foundation - 300C",
+      "cost": 2805,
+      "image": "https://cdn13.nnnow.com/web-images/medium/styles/CDERG1QSHVI/1583404621808/1.jpg",
+      "size": "30 ML",
+      "color": "300C",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 28,
+      "name": "SEPHORA COLLECTION",
+      "description": "Glow Perfection Foundation - Honey",
+      "cost": 1352,
+      "image": "https://cdn15.nnnow.com/web-images/medium/styles/YOQV85Y8P5Y/1566802042002/1.jpg",
+      "size": "20 ML",
+      "color": "Honey",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE "
+    },
+    {
+      "id": 29,
+      "name": "HUDA BEAUTY",
+      "description": "#FauxFilter Skin Finish Buildable Coverage Foundation Stick",
+      "cost": 2437,
+      "image": "https://cdn17.nnnow.com/web-images/medium/styles/NOMQM3TOYB8/1609231293314/1.jpg",
+      "size": "12.5 gm",
+      "color": "Baklava 340G",
+      "offer1": "",
+      "offer2": ""
+    },
+    {
+      "id": 30,
+      "name": "SEPHORA COLLECTION",
+      "description": "Matte Perfection Powder Foundation - 20 Cream",
+      "cost": 1050,
+      "image": "https://cdn09.nnnow.com/web-images/medium/styles/02NTFGXCJKC/1551249758310/1.jpg",
+      "size": "7.5 gm",
+      "color": "20 Cream",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE "
+    }
+  ],
+  "cart": [
+    {
+      "id_": 11,
+      "name": "STILA",
+      "description": "One Step Correct Brightening Finishing Powder - Light",
+      "cost": 2640,
+      "image": "https://cdn14.nnnow.com/web-images/medium/styles/KIUUMWAPEC5/1653470822859/1.jpg",
+      "size": "9.55 gm",
+      "color": "Light",
+      "offer1": "",
+      "offer2": "",
+      "id": 3
+    },
+    {
+      "id": 19,
+      "name": "SEPHORA COLLECTION",
+      "description": "Color Corrector - Green",
+      "cost": 950,
+      "image": "https://cdn06.nnnow.com/web-images/medium/styles/SZXTIG30UAW/1555306181828/1.jpg",
+      "size": "3.4 ML",
+      "color": "2 Colours",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE "
+    },
+    {
+      "id": 15,
+      "name": "SEPHORA COLLECTION",
+      "description": "Classic Blush Brush #04",
+      "cost": 960,
+      "image": "https://cdn15.nnnow.com/web-images/medium/styles/366XPCD0TVA/1560852958825/1.jpg",
+      "size": "One Size",
+      "color": "No Colour",
+      "offer1": "BUY WORTH 3500 FROM LIST 1 AND GET A ROSE GOLD DETANGLING BRUSH FREE",
+      "offer2": "BUY WORTH 2200 FROM LIST 1 AND GET A CLEANSING BRUSH FREE"
+    },
+    {
+      "id": 6,
+      "name": "HUDA BEAUTY",
+      "description": "Easy Bake Loose Setting Powder Mini - Banana Bread",
+      "cost": 1650,
+      "image": "https://cdn16.nnnow.com/web-images/medium/styles/7C1N04O5PPK/1655201666947/1.jpg",
+      "size": "One Size",
+      "color": "Banana Bread",
+      "offer1": "",
+      "offer2": ""
+    }
+  ]
+}
